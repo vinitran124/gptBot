@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG "CMakeFiles/save-load-state.dir/save-load-state.cpp.o" ../CMakeFiles/common.dir/common.cpp.o -o ../../bin/save-load-state  ../../libllama.a 
