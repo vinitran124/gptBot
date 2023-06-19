@@ -7,16 +7,6 @@ import (
 	"strconv"
 )
 
-// const (
-//
-//	threads   = 4
-//	tokens    = 128
-//	gpulayers = 0
-//	modelPath = "./app/AI/models/icetea.bin"
-//	topK      = 10
-//	topP      = 0.86
-//
-// )
 const (
 	envThreads   = "LLAMA_THREADS"
 	envTokens    = "LLAMA_TOKENS"

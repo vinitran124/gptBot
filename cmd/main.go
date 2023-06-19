@@ -23,4 +23,8 @@ func main() {
 	if err != nil {
 		log.Println(err)
 	}
+	//err := AI.ExportExcel()
+	//if err != nil {
+	//	log.Println(err)
+	//}
 }
